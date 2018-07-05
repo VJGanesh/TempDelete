@@ -1,1 +1,2 @@
-NEw test document add to loca directory
+New test document added to local directory.
+MOdified the file to pull from local directory.
